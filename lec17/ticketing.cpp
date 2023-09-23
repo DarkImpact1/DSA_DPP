@@ -1,4 +1,3 @@
-DSA unit 3 lec 17 CY
 
 /*
 You are tasked with implementing a ticketing system for a concert event using a 
